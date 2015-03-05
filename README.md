@@ -1,4 +1,4 @@
-# Dockerfile for OpenAM Nighly build
+# Dockerfile for OpenAM Nightly build
 
 Deployes the OpenAM war in Tomcat 8 and is ready to be configured
 
