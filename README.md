@@ -1,6 +1,6 @@
 # Dockerfile for OpenAM Nightly build
 
-Deployes the OpenAM war in Tomcat 8 and is ready to be configured
+Deploys the OpenAM war in Tomcat 8 and is ready to be configured
 
 Note: for OpenAM to be configured correctly the container must resolve the FQDN DNS name used to access OpenAM.
 
